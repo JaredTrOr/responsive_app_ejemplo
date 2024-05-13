@@ -1,16 +1,8 @@
 # responsive_app_ejemplo
 
-A new Flutter project.
+Ejemplo de aplicación responsive en Flutter
 
-## Getting Started
+![flutter_ejemplo](https://github.com/JaredTrOr/responsive_app_ejemplo/assets/115369767/591c3b03-fbe2-48b1-8a66-679078cc7e16)
 
-This project is a starting point for a Flutter application.
+![flutter_ejemplo1](https://github.com/JaredTrOr/responsive_app_ejemplo/assets/115369767/4d867ac2-191e-4abb-adb1-bb8333d9a3c0)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
